@@ -15,7 +15,7 @@ The EA framework incorporates the following key strategies and components:
   - **Mutation Operators**: A random swap mutation operator is employed to introduce diversity by exchanging the positions of two jobs within a solution, 
                       enabling the exploration of new areas in the solution space.
 
-  - **Selection Mechanism: **A tournament selection process is used to choose parent solutions based on their makespan, 
+  - **Selection Mechanism:** A tournament selection process is used to choose parent solutions based on their makespan, 
                        ensuring that better-performing solutions have a higher probability of producing offspring.
 
   - **Population Management**: The algorithm dynamically maintains a diverse population by replacing weaker solutions with better-performing offspring, 
