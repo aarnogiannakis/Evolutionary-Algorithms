@@ -30,5 +30,5 @@ The EA framework incorporates the following key strategies and components:
   - **Termination Criteria:** The algorithm concludes after a predefined number of iterations or when a specified computational time limit is reached, 
                         ensuring computational efficiency while striving for optimal solutions.
 
-  - **Objective Calculation: **The primary objective is to minimize the makespan, which is calculated as the completion time of the last job across all processors. 
+  - **Objective Calculation:** The primary objective is to minimize the makespan, which is calculated as the completion time of the last job across all processors. 
                          This ensures that the schedule is optimized for overall efficiency.
