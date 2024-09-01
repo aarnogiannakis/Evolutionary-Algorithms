@@ -1,6 +1,6 @@
 # Evolutionary-Algorithms
 
-This 
+This project is my submission for the course 42137 Optimization using Metaheuristics, taught by Thomas Jacob Riis Stidsen and Dario Pacino at DTU. 
 
 ##
 
