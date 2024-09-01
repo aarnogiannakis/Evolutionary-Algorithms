@@ -1,5 +1,11 @@
 # Evolutionary-Algorithms
 
+
+##
+This 
+
+
+
 This script implements an Evolutionary Algorithm (EA) designed to address a complex multi-processor job scheduling problem. 
 The primary objective is to minimize the makespan by efficiently allocating jobs across multiple processors, 
 while considering the duration and processor assignment constraints for each job operation.
